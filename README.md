@@ -1,7 +1,7 @@
 <head>
     <link rel="stylesheet" href="style.css">
-
 </head>
+
 <body>
 
 <header>ALURAFLIX</header>
