@@ -10,8 +10,8 @@
 <header>ALURAFLIX</header>
 
 <div>
-<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
-<p>#homem-aranha</p>
+<h1>CORALINE E O MUNDO SECRETO</h1>
+<p>#coraline</p>
 </div>
 
 <div>
