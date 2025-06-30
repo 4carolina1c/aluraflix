@@ -1,5 +1,5 @@
 
-<html>
+<html lang="pt─br">
 <head>
     <link rel="stylesheet" href="style.css" />
     <title>Aluraflix</title>
