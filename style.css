@@ -10,12 +10,12 @@ header {
     color: rgb(255, 0, 115)
 }
 section{
-    background: rgb(250, 115, 176);
+    background: rgb(255, 158, 202);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 div{
-    margin
+    margin-right: 20px;
 }
