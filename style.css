@@ -4,5 +4,6 @@ body {
     margin: 0px;
 }
 header {
-    border-bottom: solid 2px rgb(), green, blue)
+    border-bottom: solid 2px rgba(233, 15, 208, 0.667);
+    padding: 20px;
 }
