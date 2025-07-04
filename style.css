@@ -1,5 +1,5 @@
 body {
-    color: rgba(233, 15, 168, 0.979);
+    color: rgba(255, 255, 255, 0.997);
     background: black;
     margin: 0px;
 }
@@ -7,4 +7,5 @@ header {
     border-bottom: solid 2px rgba(233, 15, 208, 0.667);
     padding: 20px;
     font-size: 32px;
+    color: rgba(233, 15, 208, 0.667);
 }
