@@ -3,12 +3,13 @@ body {
     background: rgba(0, 0, 0, 0.997);
     margin: 0px;
 font-family: "Comic Relief", system-ui;
+margin-bottom: 100px;
 }
 header {
     border-bottom: solid 2px rgb(255, 0, 115);
     padding: 20px;
     font-size: 32px;
-    color: rgb(255, 0, 115)
+    color: rgb(255, 0, 115);
 }
 .chamada{
     background: rgb(255, 158, 202);
@@ -41,8 +42,10 @@ img{
 .categoria-videos img {
     opacity: 0.5;
 }
-.categoria-videos img: hover {
+.categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px
+    border: 1px solid red;
 }
-.categoria h2
+.categoria h2{
+ color: rgb(255, 0, 115);
+}
